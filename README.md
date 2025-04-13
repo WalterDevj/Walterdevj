@@ -15,7 +15,7 @@
     <img alt="Contact"
     src= "https://custom-icon-badges.demolab.com/badge/-+55--(61)--99947--3633-yellow?style=for-the-badge&logo=phone&logoColor=white">
         <img alt="Contact"
-    src= "https://custom-icon-badges.demolab.com/badge/-walterjunior.filho@gmail.com-yellow?style=for-the-badge&logo=mention&logoColor=white">
+    src= "https://custom-icon-badges.demolab.com/badge/-walterjunior.filho43@gmail.com-yellow?style=for-the-badge&logo=mention&logoColor=white">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
