@@ -4,6 +4,10 @@
 <p>
   Olá! Me chamo Walter, sou desenvolvedor web júnior apaixonado por tecnologia, interfaces intuitivas e projetos que fazem a diferença. Tenho experiência com HTML, CSS, JavaScript, React e Vue. Estou sempre buscando aprender mais e evoluir como desenvolvedor.
 </p>
+<p>
+  Hi! I'm Walter, a junior web developer passionate about technology, intuitive interfaces, and meaningful projects. I have experience with HTML, CSS, JavaScript, React, and Vue. Always eager to learn and grow as a developer.
+</p>
+
 <p></p>
 <p align="left">
   <img alt="Location"
